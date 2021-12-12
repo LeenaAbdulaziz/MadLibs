@@ -22,8 +22,7 @@ class ViewController: UIViewController {
         summeryLabel.text = "We are having a perfectly \(source.adjectiveTextField.text!) right now. Later we will \(source.verb1TextField.text!) and \(source.verb2TextField.text!) in the \(source.nounTextField.text!)."
     }
     
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-    }
+    
     
 
 
